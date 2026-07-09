@@ -71,7 +71,7 @@ To keep the dashboard dynamic, I engineered these three primary calculations:
 After building the charts and looking at the numbers, here are the 3 major discoveries I made about Infosys:
 
 ### 1. Elite Cost Control (Parallel Margins)
-Infosys's total revenue grew steadily from **18.2bn to 20.2bn** (an 11% jump). Usually, rapid growth makes a company inefficient. However, the charts show that the Gross Margin (~30%) and Net Profit Margin (~16.5%) trend lines stayed completely flat and parallel over all 4 years. This proves management exercised extreme discipline—every time they made a new dollar, their costs didn't shoot up unexpectedly.
+Infosys's total revenue grew steadily from 18.2bn to 20.2bn (an 11% jump). Usually, rapid growth makes a company inefficient. However, the charts show that the Gross Margin held tightly between **30.10% and 30.46%**, while the Net Profit Margin remained steady between **16.37% and 17.06%** over all 4 years. Because these lines run perfectly flat and parallel, it proves management exercised extreme discipline—every time they made a new dollar, their costs did not shoot up unexpectedly.
 
 ### 2. Massive Cash Cushion (Liquidity Safety)
 In business, a company is considered safe if its **Current Ratio** is between 1.5 and 2.0 (meaning it has enough short-term cash to cover its short-term bills). Infosys tracked between **1.81 and 2.31**. This proves they have a huge cash buffer and are at zero risk of running out of money to pay daily bills.
